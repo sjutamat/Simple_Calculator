@@ -1,2 +1,2 @@
-# Simple_Calculator
+# GoldenFish
 Simple calculator by Python.
